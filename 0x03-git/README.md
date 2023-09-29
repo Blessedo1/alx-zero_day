@@ -1,1 +1,1 @@
-my repo-session
+This is my repository session
